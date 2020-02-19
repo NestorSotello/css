@@ -4,6 +4,6 @@
          x.className += " responsive";
          /* cambiar topvan a topnav.responsibe*/
      } else {
-         x.className = "topnav"
+         x.className = "topnav";
      }
  }
